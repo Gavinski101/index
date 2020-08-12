@@ -1,1 +1,1 @@
-You can choose to use the (RAMPS kit + PiggyBack) version OR the (Main motherboard only) version
+You can choose to use the (RAMPS off the shelf kit + PiggyBack custom PCB) version OR the (Main motherboard custom PCB only-Main Mobo) version
