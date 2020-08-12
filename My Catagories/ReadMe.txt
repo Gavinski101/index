@@ -1,5 +1,5 @@
 Updated (12/08/2020) by Gavin:
-Features to come:(See: Upgrading the Pick and Place Frame! YouTube video end)
+Features to come:(See: YouTube Channel. End of videos usually indicate updates to come)
 Updates on feeder(s)
 Automatic Solder Paste Dispensing
 Automatic Soldering
