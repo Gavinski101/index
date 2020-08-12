@@ -9,7 +9,7 @@ Updates on feeder(s)
 Automatic Solder Paste Dispensing
 Automatic Soldering
 Vacuum Sensor
-New Motherboard Revision with:
+New Custom Main Motherboard Revision with:
 	-Vacuum sensing capabilites
 	-ARM MCU
 	-RS45 for feeder controll
