@@ -1,1 +1,1 @@
-You can either use the RAMPS kit + PiggyBack version OR the Main Motherboard only version
+You can choose to use the (RAMPS kit + PiggyBack) version OR the (Main motherboard only) version
