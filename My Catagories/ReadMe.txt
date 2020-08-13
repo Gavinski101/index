@@ -6,8 +6,12 @@ Update on (13/08/2020) by Gavin:
 	and ditch the (RAMPS kit+ Piggyback) combo. We will have to wait because otherwise we will have to complete his 
 	communication protocal in the firmware for him.
 	
+	So we can get the following so long:
+	BOMs(/My Catagories/BOMs/): External parts(RAMPS KIT NO LONGER NECESSARY BUT NICE TO HAVE)
+	
+	
 	That will mean the things to order will be the following IN THE FUTURE:
-	BOMs(/My Catagories/BOMs/): External parts(RAMPS KIT NO LONGER NECESSARY BUT NICE TO HAVE), PCB assemblies parts(Feeders+ NEW CUSTOM MAINBOARD)
+	BOMs(/My Catagories/BOMs/): PCB assemblies parts(Feeders+ NEW CUSTOM MAINBOARD)
 	Custom PCBs(/My Catagories/PCBs): Feeder_Floor, Feeder_IndexingWheel, Feeder_Mobo, NEW CUSTOM MAINBOARD and RingLight
 
 Update on (12/08/2020) by Gavin:
