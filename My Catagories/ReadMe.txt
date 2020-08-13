@@ -1,6 +1,10 @@
 Update on (13/08/2020) by Gavin:
 
-	In YT video: Universal Pick and Place Controller! (at 9:49 in the video)he mentions he didn't bother implementing his custom communication protocal(RING) between the 		controller and the feeders in MARLIN because he is switching to RS45 in anyway in the next motherboard. So we will probably need to wait for the new motherboard in any 	ways and ditch the (RAMPS kit+ Piggyback) combo. We will have to wait because otherwise we will have to complete his communication protocal in the firmware for him.
+	In YT video: Universal Pick and Place Controller! (at 9:49 in the video)he mentions he didn't bother implementing 
+	his custom communication protocal(RING) between the controller and the feeders in MARLIN because he is switching 
+	to RS45 in anyway in the next motherboard. So we will probably need to wait for the new motherboard in any ways 
+	and ditch the (RAMPS kit+ Piggyback) combo. We will have to wait because otherwise we will have to complete his 
+	communication protocal in the firmware for him.
 	
 	That will mean the things to order will be the following IN THE FUTURE:
 	BOMs(/My Catagories/BOMs/): External parts(RAMPS KIT NO LONGER NECESSARY BUT NICE TO HAVE), PCB assemblies parts(Feeders+ NEW CUSTOM MAINBOARD)
